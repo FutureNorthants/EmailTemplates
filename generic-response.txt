@@ -1,0 +1,20 @@
+<html>
+<body>
+<div id="logo" style="width: 100%; background: #A52449;">
+  <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.gif" alt="Northampton Borough Council Logo"/>
+    </A>
+  </center>
+<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
+</div>
+<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
+<br>
+<center>
+Thank you for raising a call with us regarding <B>BBB</B>.
+<br>
+CCC
+<BR>
+</div>
+</body>
+</html>
