@@ -6,17 +6,20 @@
       <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.gif" alt="Northampton Borough Council Logo"/>
     </A>
   </center>
-<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your email has been rejected</label></div>
+<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
 </div>
 <div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
 <br>
 Dear DDD
 <br>
 <br>
-Thank you for emailing Northampton Borough Council. I am afraid your email has been rejected by our systems as it was identified as containing <B>AAA</B>.
+Thank you for emailing Northampton Borough Council. Having read your email I am BBB% certain that the answer to your query is : 
 <br>
 <br>
-Please visit our <a href="https://www.northampton.gov.uk/contact">Contact Us</a> web page for other ways to get in touch.
+<B>CCC</B>.
+<br>
+<br>
+Your case has been closed automatically, but if this response does not answer your question please click <a href="https://www.northampton.gov.uk/contact">here</a> to reopen your case and have one of my human colleagues review it for you.
 <br>
 <br>
 Kind Regards,
