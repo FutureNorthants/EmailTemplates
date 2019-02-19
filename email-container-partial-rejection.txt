@@ -1,0 +1,38 @@
+<html>
+<body>
+<div id="logo" style="width: 100%; background: #A52449;">
+  <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.gif" alt="Northampton Borough Council Logo"/>
+    </A>
+  </center>
+<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Request CCC has been changed</label></div>
+</div>
+<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
+<br>
+Dear DDD
+<br>
+<br>
+Thank you for contacting Northampton Borough Council about your request for a new bin or box. Our records show you already have an open request 
+for the following bins or boxes :
+<br>
+<b>
+EEE
+</b>
+<br>
+<br>
+These bins or boxes will be delivered in line with your original request. Accordingly we have amended this request to remove the above. This request is still open and now contains the just following bins or boxes : 
+<br>
+<b>
+FFF
+</b>
+<br>
+<br>
+Kind Regards,
+<br>
+<br>
+<B>NNN</B>
+<BR>
+</div>
+</body>
+</html>
