@@ -1,0 +1,26 @@
+<html>
+<body>
+<div id="logo" style="width: 100%; background: #A52449;">
+  <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.gif" alt="Northampton Borough Council Logo"/>
+    </A>
+  </center>
+<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
+</div>
+<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
+<br>
+Dear DDD
+<br>
+<br>
+Thank you for getting back in touch with Northampton Borough Council. I have updated your case AAA and assigned it to one of my human colleagues to review. They will respond to you via email within 3 working days. 
+<br>
+<br>
+Kind Regards,
+<br>
+<br>
+<B>NNN</B> - your Northampton Borough Council virtual assistant
+<BR>
+</div>
+</body>
+</html>
