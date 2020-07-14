@@ -13,7 +13,7 @@
 Dear DDD
 <br>
 <br>
-Thank you for emailing Northampton Borough Council. One of my human colleagues has reviewed your email and responded with : 
+Thank you for emailing Northampton Borough Council. I have reviewed your email and respond with : 
 <br>
 <br>
 <B>CCC</B>.
@@ -25,7 +25,7 @@ Your case has been closed automatically, but if this response does not answer yo
 Kind Regards,
 <br>
 <br>
-<B>NNN</B> - your Northampton Borough Council virtual assistant
+<B>NNN</B>
 <BR>
 </div>
 </body>
