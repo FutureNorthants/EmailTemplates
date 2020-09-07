@@ -28,7 +28,8 @@ Your original query to me was :
 I hope this has answered your enquiry.
 <br>
 <br>
-If you need any further assistance please reply to this email to reopen your case. However, if you need no further assistance this case will automatically closed.
+If you need any further assistance, please reply to this email to reopen your case. However, if you need no further assistance this case will be closed automatically.
+<br>
 <br>
 Kind Regards,
 <br>
