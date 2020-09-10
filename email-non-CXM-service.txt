@@ -16,7 +16,7 @@ Dear colleague
 The enquiry below was received by customer services and requires action from yourselves.
 <br>
 <BR>
-The customer's email is  - WHATEVER THE TAG IS FOR CUSTOMERS EMAIL
+The customer's email is  - <B>KKK</B>
 <BR>
 <br>
 The customer's query was :
