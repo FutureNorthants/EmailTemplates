@@ -15,7 +15,9 @@ Dear colleague
 <br>
 The enquiry below was received by customer services and requires action from yourselves.
 <br>
-<br>
+<BR>
+The customer's email is  - <B>KKK</B>
+<BR>
 <br>
 The customer's query was :
 <br>
@@ -23,7 +25,10 @@ The customer's query was :
 <B>FFF</B>
 <br>
 <br>
-Please can you respond directly to the customer to resolve their query; this case has been closed automatically on our system.
+Please can you respond directly to the customer to resolve their query.
+<BR>
+<BR>
+This case has been closed automatically on our system.
 <br>
 <br>
 Kind Regards,
