@@ -10,8 +10,6 @@
 </div>
 <div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
 <br>
-Dear DDD
-<br>
 <br>
 Thank you for emailing Northampton Borough Council. I am afraid your email has been rejected by our systems as it was identified as containing <B>AAA</B>.
 <br>
