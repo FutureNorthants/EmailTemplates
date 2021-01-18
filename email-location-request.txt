@@ -1,0 +1,25 @@
+<html>
+<body>
+<div id="logo" style="width: 100%; background: #A52449;">
+  <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.gif" alt="Northampton Borough Council Logo"/>
+    </A>
+  </center>
+<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
+</div>
+<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
+<br>
+<center>
+<br>
+Thank you for your enquiry regarding <b>BBB</b>.  In order to ensure that we handle your request correctly, can you please give us the town and postcode of the issue you are reporting; if this is unknown, please confirm the town and postcode for where you live.
+<br>
+FFF
+<BR>
+Unfortunately, we are unable to resolve your enquiry until we receive this information. Alternatively, the Council’s online facilities are available around the clock - <b>www.westnorthamptonshire.gov.uk</b>
+<br>
+If we do not receive this within five working days, we will assume that you longer require this service.
+<br>
+</div>
+</body>
+</html>
