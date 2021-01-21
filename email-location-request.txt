@@ -10,9 +10,10 @@
 </div>
 <div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
 <br>
-<center>
 <br>
-Thank you for your enquiry regarding <b>BBB</b>.  In order to ensure that we handle your request correctly, can you please reply to this email, giving us the town and postcode of the issue you are reporting; if this is unknown, please use the town and postcode for where you live.
+Thank you for your enquiry regarding <b>BBB</b>.  
+<br>
+In order to ensure that we handle your request correctly, can you please reply to this email, giving us the town and postcode of the issue you are reporting; if this is unknown, please use the town and postcode for where you live.
 <br>
 FFF
 <BR>
