@@ -10,13 +10,20 @@
 </div>
 <div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
 <br>
-<center>
-Thank you for raising a call with us regarding <B>BBB</B>.
 <br>
-CCC
-<BR>
-Thank you for your email to our Customer Service Team at Northampton Borough Council. We aim to provide a full response within 3 working days; however, if the enquiry has to be referred to another Service Unit you should receive a response within 10 working days.
-If your enquiry is of a more urgent nature please contact us during our working hours of Monday to Friday 9.00 a.m. – 5.00 p.m. on 0300 330 7000
+Thank you for your enquiry.  To make sure we can deal with your query properly, can you please reply to this email giving us the town and postcode of the issue you are reporting; if this is unknown, please use the town and postcode for where you live.
+<br>
+<br>
+Your original enquiry was:
+<br>
+<br>
+<b>FFF</b>
+<br>
+<br>
+Unfortunately, we are unable to resolve your enquiry until we receive this information. Alternatively, the Council’s online facilities are available around the clock - <b>www.westnorthamptonshire.gov.uk</b>
+<br>
+If we do not receive this within five working days, we will assume that you longer require this service.
+<br>
 </div>
 </body>
 </html>

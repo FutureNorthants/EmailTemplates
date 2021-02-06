@@ -1,0 +1,42 @@
+<html>
+<body>
+<div id="logo" style="width: 100%; background: #A52449;">
+  <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.gif" alt="Northampton Borough Council Logo"/>
+    </A>
+  </center>
+<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Original CXM case reference is AAA</label></div>
+</div>
+<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
+<br>
+Dear colleague
+<br>
+<br>
+The enquiry below was received by customer services and requires action from yourselves.
+<br>
+<BR>
+The customer's email is  - <B>KKK</B>
+<BR>
+<br>
+The customer's query was :
+<br>
+<br>
+<B>FFF</B>
+<br>
+<br>
+Please can you respond directly to the customer to resolve their query.
+<BR>
+<BR>
+This case has been closed automatically on our system.
+<br>
+<br>
+Kind Regards,
+<br>
+<br>
+<B>NNN</B>
+<BR>
+<BR>
+</div>
+</body>
+</html>
