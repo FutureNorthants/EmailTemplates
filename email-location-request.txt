@@ -11,19 +11,24 @@
 <div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
 <br>
 <br>
-Thank you for your enquiry.  To make sure we can deal with your query properly, can you please reply to this email giving us the town and postcode of the issue you are reporting; if this is unknown, please use the town and postcode for where you live.
+Thank you for contacting West Northants Council. 
+<br>
+In order to resolve your enquiry, if possible, please can you confirm the address, including the Town or Postcode of the issue you are reporting. If you do not have this information, please confirm the town or postcode for where you live.  This will enable us to allocate this correctly.  
 <br>
 <br>
-Your original enquiry was:
+Please note we are unable to resolve your enquiry until this information is received. If we do not receive this <b>within five working days</b>, we will assume that you longer require this service. 
 <br>
 <br>
-<b>FFF</b>
+Alternatively, the Council’s online facilities are available around the clock at www.westnorthamptonshire.gov.uk.
 <br>
 <br>
-Unfortunately, we are unable to resolve your enquiry until we receive this information. Alternatively, the Council’s online facilities are available around the clock - <b>www.westnorthamptonshire.gov.uk</b>
+Kind Regards,
 <br>
-If we do not receive this within five working days, we will assume that you longer require this service.
 <br>
+<B>NNN - your Virtual Assistant</b>
+<BR>
+<BR>
+Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northants Privacy Policy and how we process your personal information by visiting www.westnorthants.gov.uk/xxxxxx
 </div>
 </body>
 </html>
