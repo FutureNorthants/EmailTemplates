@@ -1,9 +1,9 @@
 <html>
 <body>
-<div id="logo" style="width: 100%; background: #A52449;">
+<div id="logo" style="width: 100%; background: #386193;">
   <center>
     <A HREF="https://www.northampton.gov.uk">
-      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.gif" alt="Northampton Borough Council Logo"/>
+      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.png" alt="West Northamptonshire Council Logo"/>
     </A>
   </center>
 <div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Hub case reference number is AAA</label></div>
@@ -11,7 +11,7 @@
 <div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
 <br>
 <br>
-Dear colleague
+Dear ZZZ colleague
 <br>
 <br>
 The enquiry below was received by West Northants Email Hub and requires action by your service.
