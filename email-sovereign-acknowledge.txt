@@ -1,6 +1,6 @@
 <html>
 <body>
-<div id="logo" style="width: 100%; background: #A52449;">
+<div id="logo" style="width: 100%; background: #386193;">
   <center>
     <A HREF="https://www.northampton.gov.uk">
       <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.gif" alt="Northampton Borough Council Logo"/>
