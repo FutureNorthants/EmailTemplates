@@ -32,11 +32,11 @@ Please can you respond directly to the customer to resolve their query.
 The case has been automatically closed on our systems.
 <br>
 <br>
-If this query should have been sent to NCC - <a href="EEE">click here</a>.
+If this query should have been sent to DDC - <a href="EEE">click here</a>.
 <br>
 If this query should have been sent to NBC Hub - <a href="EEE">click here</a>.
 <br>
-If this query should have been sent to DDC - <a href="EEE">click here</a>.
+If this query should have been sent to NCC- <a href="EEE">click here</a>.
 <br>
 If this query should have been sent to SNC - <a href="EEE">click here</a>.
 <br>
