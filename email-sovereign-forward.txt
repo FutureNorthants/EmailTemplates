@@ -26,6 +26,9 @@ The customers query was -
 <B>FFF</B>.
 <br>
 <br>
+Customer's location or response to request was - <b>OOO</b>
+<br>
+<br>
 Please can you respond directly to the customer to resolve their query.
 <br>
 <br>
