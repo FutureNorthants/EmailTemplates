@@ -6,9 +6,10 @@
       <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNClogo.png" alt="West Northamptonshire Council Logo"/>
     </A>
   </center>
-<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Hub case reference number is AAA</label></div>
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
 </div>
-<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left">
 <br>
 <br>
 Dear ZZZ colleague
@@ -26,7 +27,10 @@ The customers query was -
 <B>FFF</B>.
 <br>
 <br>
-Customer's location or response to request was - <b>OOO</b>
+Customer's location or response to request was - 
+<br>
+<br>
+<b>OOO</b>
 <br>
 <br>
 Please can you respond directly to the customer to resolve their query.

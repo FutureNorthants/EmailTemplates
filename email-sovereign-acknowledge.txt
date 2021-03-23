@@ -9,7 +9,7 @@
 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
 <div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
 </div>
-<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 12px;margin: 5px;text-align: left">
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left">
 <br>
 <br>
 Thank you for contacting West Northants Council. 
