@@ -30,7 +30,7 @@ Kind Regards,
 <B>NNN - your Virtual Assistant</b>
 <BR>
 <BR>
-Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northants Privacy Policy and how we process your personal information by visiting www.westnorthants.gov.uk/xxxxxx
+Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northants Privacy Policy and how we process your personal information by visiting <a href="www.westnorthants.gov.uk/privacy">www.westnorthants.gov.uk/privacy</a>.
 </div>
 </body>
 </html>
