@@ -24,13 +24,13 @@ The customer's email is - <b>KKK</b>
 The customers query was - 
 <br>
 <br>
-<B>FFF</B>.
+<B>OOO</B>.
 <br>
 <br>
 Customer's location or response to request was - 
 <br>
 <br>
-<b>OOO</b>
+<b>RRR</b>
 <br>
 <br>
 Please can you respond directly to the customer to resolve their query.
