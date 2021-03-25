@@ -7,7 +7,7 @@
     </A>
   </center>
 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
-<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Hub case reference number is AAA</label></div>
 </div>
 <div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left">
 <br>
@@ -18,10 +18,19 @@ Dear ZZZ colleague
 The enquiry below was received by West Northants Email Hub and requires action by your service.
 <br>
 <br>
-The customer's email is - <b>KKK</b>
+The customer's query was - <b>OOO</b>.
 <br>
 <br>
-The customers query was - 
+The case has been automatically closed on our systems.
+<br>
+<br>
+For further information:
+<br>
+<br>
+The customer's location or the response they returned was - <b>LLL</b>.
+<br>
+<br>
+The customer's email address is - <b>KKK</b>.
 <br>
 <br>
 <B>OOO</B>.
@@ -30,16 +39,20 @@ The customers query was -
 Please can you respond directly to the customer to resolve their query.
 <br>
 <br>
-The case has been automatically closed on our systems.
+If this query has been sent to you incorrectly, please refer to the correct sovereign area by clicking the sovereign area link below. 
+<br>
+If you do not know which sovereign area to refer this to, please pass to the Email Hub.
 <br>
 <br>
-If this query should have been sent to DDC - <a href="EEE">click here</a>.
+<a href="EEE">County</a>.
 <br>
-If this query should have been sent to NBC Hub - <a href="EEE">click here</a>.
+<a href="EEE">Daventry Area</a>.
 <br>
-If this query should have been sent to NCC- <a href="EEE">click here</a>.
+<a href="EEE">Northampton Area</a>.
 <br>
-If this query should have been sent to SNC - <a href="EEE">click here</a>.
+<a href="EEE">South Northants Area</a>.
+<br>
+<a href="EEE">Email Hub</a>.
 <br>
 <br>
 Kind Regards 
