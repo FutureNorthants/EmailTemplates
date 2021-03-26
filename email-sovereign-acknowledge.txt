@@ -12,7 +12,7 @@
 <div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left">
 <br>
 <br>
-Thank you for contacting West Northants Council. 
+Thank you for contacting West Northamptonshire Council. 
 <br>
 <br>
 I can confirm your email has been passed to one of my colleagues in our customer service centres to review. You will receive a response within the next <b>5 working days.</b>
@@ -30,7 +30,7 @@ Kind Regards,
 <B>NNN - your Virtual Assistant</b>
 <BR>
 <BR>
-Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northants Privacy Policy and how we process your personal information by visiting <a href="www.westnorthants.gov.uk/privacy">www.westnorthants.gov.uk/privacy</a>.
+Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northamptonshire Council's Privacy Policy and how we process your personal information by visiting <a href="www.westnorthants.gov.uk/privacy">www.westnorthants.gov.uk/privacy</a>.
 </div>
 </body>
 </html>
