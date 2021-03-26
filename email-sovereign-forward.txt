@@ -12,7 +12,7 @@
 <div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left">
 <br>
 <br>
-Dear ZZZ colleague
+Dear sovereign colleague
 <br>
 <br>
 The enquiry below was received by West Northants Email Hub and requires action by your service.
@@ -33,28 +33,10 @@ The customer's location or the response they returned was - <b>LLL</b>.
 The customer's email address is - <b>KKK</b>.
 <br>
 <br>
-<B>OOO</B>.
-<br>
-<br>
 Please can you respond directly to the customer to resolve their query.
 <br>
 <br>
-If this query has been sent to you incorrectly, please refer to the correct sovereign area by clicking the sovereign area link below. 
-<br>
-If you do not know which sovereign area to refer this to, please pass to the Email Hub.
-<br>
-<br>
-<a href="EEE">County</a>.
-<br>
-<a href="EEE">Daventry Area</a>.
-<br>
-<a href="EEE">Northampton Area</a>.
-<br>
-<a href="EEE">South Northants Area</a>.
-<br>
-<a href="EEE">Email Hub</a>.
-<br>
-<br>
+
 Kind Regards 
 <br>
 Norbert
