@@ -1,6 +1,6 @@
 <html>
 <body>
-<div id="logo" style="width: 100%; background: #386193;">
+<div id="logo" style="width: 100%; background: #FFF;">
   <center>
     <A HREF="https://www.northampton.gov.uk">
       <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNClogo.png" alt="West Northamptonshire Council Logo"/>
@@ -31,6 +31,13 @@ Kind Regards,
 <BR>
 <BR>
 Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northamptonshire Council's Privacy Policy and how we process your personal information by visiting <a href="www.westnorthants.gov.uk/privacy">www.westnorthants.gov.uk/privacy</a>.
+<br>
+<br>
+ <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNCbanner.png" alt="Image attachment of West Northamptonshire Council Logo and Values"/>
+    </A>
+  </center>
 </div>
 </body>
 </html>
