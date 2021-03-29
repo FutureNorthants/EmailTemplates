@@ -35,11 +35,6 @@ Kind Regards
 Norbert
 <br>
 <br>
- <center>
-    <A HREF="https://www.northampton.gov.uk">
-      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNCbanner.png" alt="Image attachment of West Northamptonshire Council Logo and Values"/>
-    </A>
-  </center>
 </div>
 </body>
 </html>
