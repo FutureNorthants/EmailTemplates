@@ -1,22 +1,31 @@
 <html>
 <body>
-<div id="logo" style="width: 100%; background: #A52449;">
+<div id="logo" style="width: 100%; background: #FFF;">
   <center>
     <A HREF="https://www.northampton.gov.uk">
-      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.gif" alt="Northampton Borough Council Logo"/>
+      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNClogo.png" alt="West Northamptonshire Council Logo"/>
     </A>
   </center>
-<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your case reference number is AAA</label></div>
 </div>
-<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left">
 <br>
-<center>
-Thank you for raising a call with us regarding <B>BBB</B>.
+<br>
+Thank you for raising a case with West Northamptonshire Council regarding <B>BBB</B>.
+<br>
 <br>
 CCC
-<BR>
-Thank you for your email to our Customer Service Team at Northampton Borough Council. We aim to provide a full response within 3 working days; however, if the enquiry has to be referred to another Service Unit you should receive a response within 10 working days.
-If your enquiry is of a more urgent nature please contact us during our working hours of Monday to Friday 9.00 a.m. – 5.00 p.m. on 0300 330 7000
+<br>
+<br>
+Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northamptonshire Council's Privacy Policy and how we process your personal information by visiting <a href="www.westnorthants.gov.uk/privacy">www.westnorthants.gov.uk/privacy</a>.
+<br>
+<br>
+ <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNCbanner.png" alt="Image attachment of West Northamptonshire Council Logo and Values"/>
+    </A>
+  </center>
 </div>
 </body>
 </html>

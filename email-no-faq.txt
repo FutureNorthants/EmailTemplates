@@ -1,17 +1,18 @@
 <html>
 <body>
-<div id="logo" style="width: 100%; background: #A52449;">
+<div id="logo" style="width: 100%; background: #FFF;">
   <center>
     <A HREF="https://www.northampton.gov.uk">
-      <img style="border: none;" src="https://selfserve.northampton.gov.uk/mycouncil/images/logo.gif" alt="Northampton Borough Council Logo"/>
+      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNClogo.png" alt="West Northamptonshire Council Logo"/>
     </A>
   </center>
-<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
 </div>
-<div style="font-family:'Lucida grande', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 13px;margin: 5px;text-align: left">
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left">
 <br>
 <br>
-Thank you for emailing Northampton Borough Council. Having read your enquiry, I have created a case under reference AAA and assigned it to one of my colleagues to review. They will respond to you via email within 3 working days. 
+Thank you for contacting West Northamptonshire Council.  Having read your enquiry, I have created a case under reference AAA and assigned it to one of my colleagues to review. They will respond to you via email within 3 working days. 
 <br>
 <br>
 Your original query to me was :
@@ -23,15 +24,17 @@ Your original query to me was :
 Kind Regards,
 <br>
 <br>
-<B>NNN</B> - your Northampton Borough Council virtual assistant
+<B>NNN - your Virtual Assistant</b>
 <BR>
 <BR>
-Thank you for your email to our Customer Service Team at Northampton Borough Council. We aim to provide a full response within 3 working days; however, if the enquiry has to be referred to another Service Unit you should receive a response within 10 working days.
-If your enquiry is of a more urgent nature please contact us during our working hours of Monday to Friday 9.00 a.m. – 5.00 p.m. on 0300 330 7000
-<BR>
-Want a quicker way of reporting problems to us? – <a href="https://www.northampton.gov.uk/myaccount">Creating a customer account</a> will allow you to report issues online without having to enter your details every time, as well as being able to sign up to view your Council Tax account.
-<BR>
-<BR>
+Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northamptonshire Council's Privacy Policy and how we process your personal information by visiting <a href="www.westnorthants.gov.uk/privacy">www.westnorthants.gov.uk/privacy</a>.
+<br>
+<br>
+ <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNCbanner.png" alt="Image attachment of West Northamptonshire Council Logo and Values"/>
+    </A>
+  </center>
 </div>
 </body>
 </html>
