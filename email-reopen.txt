@@ -12,13 +12,13 @@
 <div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left">
 <br>
 <br>
-Thank you for getting back in touch with West Northamptonshire Council. I have updated your case AAA and assigned it to one of my colleagues to review. They will respond to you via email within 3 working days. 
+Thank you for getting back in touch with West Northamptonshire Council. I have updated your case AAA and assigned it to one of my colleagues to review. They will respond to you via email within <b>5 working days</b>. 
 <br>
 <br>
 Your original query to me was :
 <br>
 <br>
-<B>FFF</B>
+<B>OOO</B>
 <br>
 <br>
 Kind Regards,
