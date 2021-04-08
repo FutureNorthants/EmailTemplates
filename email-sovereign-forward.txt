@@ -24,7 +24,7 @@ The customer's query and responses (if any) were - <b>OOO</b>.
 The case has been automatically closed on our systems.
 <br>
 <br>
-The customer's email address is - <b>KKK</b>.
+The customer's email address is - <b>KKK</b>
 <br>
 <br>
 Please can you respond directly to the customer to resolve their query.
