@@ -1,0 +1,45 @@
+<html>
+<body>
+<div id="logo" style="width: 100%; background: #FFF;">
+  <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNClogo.png" alt="West Northamptonshire Council Logo"/>
+    </A>
+  </center>
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Hub case reference number is AAA</label></div>
+</div>
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left">
+<br>
+<br>
+Thank you for contacting our Customer Service team at West Northamptonshire Council.
+<br>
+<br>
+We have noted that your enquiry should be directed to North Northamptonshire Council and therefore we have forwarded this enquiry on, for your convenience. We are advising you of this action in line with our requirements under the right to be informed in the General Data Protection Regulations.
+<br>
+<br>
+For future queries relating to North Northamptonshire Council please visit <a href="www.northnorthants.gov.uk">www.northnorthants.gov.uk</a>.
+<br>
+<br>
+Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northamptonshire Council's Privacy Policy and how we process your personal information by visiting <a href="www.westnorthants.gov.uk/privacy">www.westnorthants.gov.uk/privacy</a>.
+<br>
+If you require a printed copy of our Privacy Policy or a Privacy Notice, please contact us.
+<br>
+<br>
+Kind Regards,
+<br>
+<B>NNN - your Virtual Assistant</b>
+<br>
+<br>
+<br>
+Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northamptonshire Council's Privacy Policy and how we process your personal information by visiting <a href="www.westnorthants.gov.uk/privacy">www.westnorthants.gov.uk/privacy</a>.
+<br>
+<br>
+ <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNCbanner.png" alt="Image attachment of West Northamptonshire Council Logo and Values"/>
+    </A>
+  </center>
+</div>
+</body>
+</html>
