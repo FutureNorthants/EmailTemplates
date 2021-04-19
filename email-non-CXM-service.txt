@@ -24,7 +24,7 @@ The customer's email is  - <B>KKK</B>
 The customer's query was :
 <br>
 <br>
-<B>OOO</B>
+<B>FFF</B>
 <br>
 <br>
 Please can you respond directly to the customer to resolve their query.
