@@ -1,0 +1,49 @@
+<html>
+<body>
+<div id="logo" style="width: 100%; background: #FFF;">
+  <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNClogo.png" alt="West Northamptonshire Council Logo"/>
+    </A>
+  </center>
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>Your call number is AAA</label></div>
+</div>
+<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left">
+<br>
+<br>
+Thank you for contacting West Northamptonshire Council. 
+<br>
+<br>
+<B>CCC</B>.
+<br>
+<br>
+Your original query to me was :
+<br>
+<br>
+<B>FFF</B>
+<br>
+<br>
+I hope this has answered your enquiry.
+<br>
+<br>
+If you have any further questions, this case will remain open for a further 5 working days and will be closed automatically at the end of this time.
+<br>
+<br>
+Kind Regards,
+<br>
+<br>
+<B>NNN</B>
+<BR>
+<BR>
+Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northamptonshire Council's Privacy Policy and how we process your personal information by visiting <a href="www.westnorthants.gov.uk/privacy">www.westnorthants.gov.uk/privacy</a>.
+<br>
+<br>
+ <center>
+    <A HREF="https://www.northampton.gov.uk">
+      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNCbanner.png" alt="Image attachment of West Northamptonshire Council Logo and Values"/>
+    </A>
+  </center>
+</div>
+</body>
+</html>
