@@ -1,39 +1,25 @@
 <html>
 <body>
-<div id="logo" style="width: 100%; background: #FFF;">
+<div id='logo' style='width: 100%; background: #FFF;'>
   <center>
-    <A HREF="https://www.northampton.gov.uk">
-      <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNClogo.png" alt="West Northamptonshire Council Logo"/>
+    <A HREF='https://www.northampton.gov.uk'>
+      <img style='border: none;' src='https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNClogo.png' alt='West Northamptonshire Council Logo'/>
     </A>
   </center>
+  
 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
-<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center"> <label>CXM case number is AAA</label></div>
+
+<div style='font-family:Roboto, Lucida Sans Unicode, lucida sans, Verdana, Helvetica, Arial, sans-serif;background: #58686D;Color: White;font-size: 25px;text-align: center'> <label>Case number is AAA</label></div>
 </div>
-<div style="font-family:'Roboto', 'Lucida Sans Unicode', 'lucida sans', Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left">
+<div style='font-family:Roboto, Lucida Sans Unicode, lucida sans, Verdana, Helvetica, Arial, sans-serif;font-size: 14px;margin: 5px;text-align: left'>
 <br>
 <br>
-THE TEXT BELOW IS PLACEHOLDER TEXT ONLY
-<br>
-<br>
-This case was returned from <b>ZZZ</b> - <b>SSS</b> as it was sent there in error.
-<br>
-<br>
-The customer's query and responses (if any) were - <b>OOO</b>.
-<br>
-<br>
-The case has been automatically closed on our systems.
-<br>
-<br>
-The customer's email address is - <b>KKK</b>
-<br>
-<br>
-Sovereign forwarded to - <b>ZZZ</b>
-<br>
-<br>
-Service forwarded to - <b>SSS</b>
+BBB
 <br>
 <br>
 Kind Regards,
 <br>
 <br>
 <B>NNN - your Virtual Assistant</b>
+</body>
+</html>
