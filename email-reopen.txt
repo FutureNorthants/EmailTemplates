@@ -24,10 +24,16 @@ Your original query to me was :
 Kind Regards,
 <br>
 <br>
-<B>NNN</B> - your Northampton Borough Council virtual assistant
+<B>NNN</B> - your West Northamptonshire Council virtual assistant
 <BR>
 <BR>
 Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You can find further information on West Northamptonshire Council's Privacy Policy and how we process your personal information by visiting <a href="www.westnorthants.gov.uk/privacy">www.westnorthants.gov.uk/privacy</a>.
+<br>
+<br>
+If you would like to give us feedback on your interaction with us today, please complete our customer satisfaction survey using the link below.
+<br>
+<br>
+<a href="https://www.northampton.gov.uk/xfp/form/237">Our customer satisfaction survey</a>.
 <br>
 <br>
  <center>
@@ -35,7 +41,6 @@ Please note if your enquiry is urgent, you can contact us on 0300 126 7000. You 
       <img style="border: none;" src="https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNCbanner.png" alt="Image attachment of West Northamptonshire Council Logo and Values"/>
     </A>
   </center>
-<BR>
 </div>
 </body>
 </html>
