@@ -2,7 +2,7 @@
 <body>
 <div id='logo' style='width: 100%; background: #FFF;'>
   <center>
-    <A HREF='https://www.northampton.gov.uk'>
+    <A HREF='https://www.westnorthants.gov.uk/'>
       <img style='border: none;' src='https://s3.eu-west-2.amazonaws.com/norberta.northampton.digital/WNClogo.png' alt='West Northamptonshire Council Logo'/>
     </A>
   </center>

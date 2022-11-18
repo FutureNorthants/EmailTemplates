@@ -21,6 +21,12 @@ The enquiry below was received by West Northamptonshire Email Hub and requires a
 The customer's query and responses (if any) were - <b>OOO</b>
 <br>
 <br>
+The Mailbot's suggested response is - 
+<br>
+<br>
+RRR
+<br>
+<br>
 The case has been automatically closed on our systems.
 <br>
 <br>
