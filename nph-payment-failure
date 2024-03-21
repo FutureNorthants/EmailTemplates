@@ -38,9 +38,8 @@
 <body>
 
     <div class="container">
-        <div class="icon">&#10060;</div>
-        <h1>Payment Failed</h1>
-        <p>Sorry, there was a problem processing your payment.</p>
+        <h1>Thank You</h1>
+        <p>The payment attempt has been completed </p>
     </div>
 
 </body>
